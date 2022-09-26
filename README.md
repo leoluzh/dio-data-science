@@ -1,7 +1,7 @@
 # dio-data-science
 Repositório de código para estudo de conceitos de ciência de dados.
 
-### Instatação de ambiente para Mac (M1)
+### Instalação de ambiente para Mac (M1)
 
 
  - Baixar [Python](https://www.python.org/downloads/macos/)
