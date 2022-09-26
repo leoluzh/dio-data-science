@@ -5,6 +5,6 @@ Repositório de código para estudo de conceitos de ciência de dados.
 
 
  - Baixar [Python](https://www.python.org/downloads/macos/)
- - Baixar [Amaconda](https://www.anaconda.com/products/distribution)
+ - Baixar [Anaconda](https://www.anaconda.com/products/distribution)
  - Baixar [R](https://cran.r-project.org/bin/macosx/)
  - Baixar [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
